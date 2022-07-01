@@ -1,0 +1,20 @@
+{
+    "CN": "PLACEHOLDER",
+    "hosts": [
+	"PLACEHOLDER",
+	"localhost"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C":  "GB",
+            "L":  "Menai Science Park",
+            "O":  "EvoMetric Ltd",
+            "OU": "WWW",
+            "ST": "Isle of Anglesey"
+        }
+    ]
+}

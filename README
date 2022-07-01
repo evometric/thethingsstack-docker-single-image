@@ -1,0 +1,7 @@
+# The Things Stack - LoRaWAN Stack from The Things Industries
+
+Repackaged into a single docker image for integration testing client API SDKs.
+
+Do not use for serving. it is configured for convenience in testing, not security.
+
+
